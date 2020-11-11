@@ -5,9 +5,9 @@ module.exports = {
         useBuiltIns: 'entry',
         corejs: {
           version: 3,
-          proposals: true
-        }
-      }
+          proposals: true,
+        },
+      },
     ]
   ],
 };
